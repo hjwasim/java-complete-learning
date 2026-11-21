@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-treeset/01-treeset.iml" filepath="$PROJECT_DIR$/01-treeset/01-treeset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-streams-creation/02-streams-creation.iml" filepath="$PROJECT_DIR$/02-streams-creation/02-streams-creation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-complete-learning.iml" filepath="$PROJECT_DIR$/.idea/java-complete-learning.iml" />
     </modules>
   </component>

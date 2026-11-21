@@ -6,6 +6,7 @@ public class Main {
         Person p1 = new Person("ABC", 21);
         Person p2 = new Person("DEF", 22);
         Person p3 = new Person("ABC", 23);
+        Person p4 = new Person("GHI", 22);
 
         // TreeSet internally uses TreeMap
         // 0 - same - equal
@@ -31,6 +32,7 @@ public class Main {
         personTreeSet.add(p1);
         personTreeSet.add(p2);
         personTreeSet.add(p3);
+        personTreeSet.add(p4);
         System.out.println(personTreeSet);
 
         // compareTo() must be consistent with equals().
